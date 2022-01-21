@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AS-NOT
-- 🧠 my language [python,php,html,css,js] and learn sql
-- 🎩 I’m cyber security and web devloper 
-
+-  Hi, I’m AS-NOT
+-  my languages [python,php >>> mysql,html,css,js] 
+-  just a beginner , cyber security and programmer 
+-  [2013 - 2022]
