@@ -1,4 +1,3 @@
 -  Hi, I’m AS-NOT
--  my languages [python,php >>> mysql,html,css,js] 
--  just a beginner , cyber security and programmer 
+-  just a beginner , interested  cyber security and programmer 
 -  [2013 - 2022]
