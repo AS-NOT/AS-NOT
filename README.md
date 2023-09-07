@@ -1,3 +1,2 @@
 -  Hi, I’m AS-NOT
 -  just a beginner
--  
