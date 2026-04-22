@@ -9,9 +9,3 @@
 </p>
 
 ---
-
-ENTITY     ▸ 0xmjeed
-STATE      ▸ ACTIVE
-LAYER      ▸ UNKNOWN
-CONTROL    ▸ INTERNAL
-NOISE      ▸ NONE
